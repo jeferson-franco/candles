@@ -1,0 +1,20 @@
+{
+    "name": "candles",
+    "version": "1.0.0",
+    "description": "When a candle finishes burning it leaves a leftover. `makeNew` leftovers can be combined to make a new candle, which, when burning down, will in turn leave another leftover.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/candles.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/candles/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/candles#readme"
+}
